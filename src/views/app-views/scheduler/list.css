@@ -1,0 +1,16 @@
+.furniture {
+  display: flex;
+  justify-content: center;
+}
+
+.furniture img {
+  margin: 20px;
+  border: 5px solid rgb(24, 153, 142);
+  border-radius: 5px;
+}
+
+.furniture_schema {
+  height: 45vh;
+  margin: 20px;
+  background-color: grey;
+}
